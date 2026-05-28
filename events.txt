@@ -1,0 +1,30 @@
+2026-05-08 13:22:47 | Login: rabiyaakhalid (Admin)
+2026-05-08 13:22:54 | Main Light toggled to ON by rabiyaakhalid
+2026-05-08 13:22:58 | Ceiling Fan toggled to ON by rabiyaakhalid
+2026-05-08 13:23:14 | Room added: myroom
+2026-05-08 13:23:21 | All devices in 'myroom' turned off.
+2026-05-08 13:23:22 | All devices in 'myroom' turned off.
+2026-05-08 13:24:02 | Device added: myroom to myroom
+2026-05-08 13:24:07 | myroom toggled to ON by rabiyaakhalid
+2026-05-08 13:24:28 | Logout
+2026-05-09 13:56:01 | Login: rabiya (Guest)
+2026-05-09 13:57:11 | Logout
+2026-05-09 13:57:25 | Login: admin (Admin)
+2026-05-09 13:57:28 | Main Light toggled to ON by admin
+2026-05-09 13:57:30 | Main Light toggled to OFF by admin
+2026-05-09 13:57:31 | Ceiling Fan toggled to ON by admin
+2026-05-09 13:57:33 | Bed Light toggled to ON by admin
+2026-05-09 13:58:24 | Logout
+2026-05-09 14:08:56 | Login: admin (Admin)
+2026-05-09 14:09:07 | Main Light toggled to ON by admin
+2026-05-09 14:09:09 | Bed Light toggled to ON by admin
+2026-05-09 14:09:20 | Room added: 1
+2026-05-09 14:10:00 | Room added: 2
+2026-05-09 14:10:27 | Device added: light to Bedroom
+2026-05-09 14:10:59 | Room removed: 2
+2026-05-09 14:12:03 | User added: noor (Admin)
+2026-05-09 14:12:07 | Logout
+2026-05-10 12:31:57 | Login: admin (Admin)
+2026-05-10 12:32:01 | Main Light toggled to ON by admin
+2026-05-10 12:32:04 | Ceiling Fan toggled to ON by admin
+2026-05-10 12:32:15 | Logout
