@@ -41,3 +41,14 @@ Smart-Sync simulates a fully functional smart home environment where users can m
 **Course:** Object Oriented Programming (CS-212)  
 **Institution:** NUST SEECS, Islamabad  
 **Semester:** 2nd Semester — BS Data Science
+
+## GUI Preview
+
+### Login Screen
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Device Control
+![Devices](devices.png)
